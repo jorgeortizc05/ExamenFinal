@@ -47,3 +47,11 @@ python manage.py createsuperuser
 en el navegador poner: localhost:8000/admin. He ingresa el usuario que lo creo con createsuperuser
 
 ![alt text](resources/imgLogin.png)
+
+![alt text](resources/img1.png)
+
+![alt text](resources/img2.png)
+
+![alt text](resources/img3.png)
+
+![alt text](resources/img4.png)
