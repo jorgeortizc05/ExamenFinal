@@ -19,7 +19,8 @@ Windows
 ```
 pip install -r .\requerimientos\reque.txt
 ```
-### Ejecutamos nuestra paguina web
+### Ejecutamos nuestra paguina web.
+Nota: primero debe tener creado la base de datos. Caso contrario le va a decir que no existe la base de datos.
 ```
 python .\manage.py runserver 0.0.0.0:8000
 ```
